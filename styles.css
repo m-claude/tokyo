@@ -44,7 +44,7 @@ button {
 #hero {
     display: flex;
     flex-direction: column;
-    background-image: url(/images/su-san-lee-E_eWwM29wfU-unsplash.jpg);
+    background-image: url(su-san-lee-E_eWwM29wfU-unsplash.jpg);
     height: 80vh;
     width: 100%;
     padding: 0;
@@ -62,7 +62,7 @@ button {
 }
 
 #hero:hover {
-    background-image: url(/images/tokyo.gif);
+    background-image: url(tokyo.gif);
     background-size: cover;
 }
 
@@ -85,7 +85,7 @@ button {
 
 
 #about:hover {
-    background-image: url(/images/blossom.gif);
+    background-image: url(blossom.gif);
 }
 
 /* Guide section */
